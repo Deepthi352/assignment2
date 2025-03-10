@@ -22,7 +22,7 @@ This is a small social media web application that allows users to connect, share
 ## Installation
 
 ### Prerequisites
-Make sure you have the following installed:
+Make sure you have the following installed:(your wish)
 - [Node.js](https://nodejs.org/)
 - [MongoDB](https://www.mongodb.com/)
 - [Git](https://git-scm.com/)
